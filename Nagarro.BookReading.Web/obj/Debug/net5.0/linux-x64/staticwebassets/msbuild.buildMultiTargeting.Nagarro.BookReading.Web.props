@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nagarro.BookReading.Web.props" />
+</Project>
